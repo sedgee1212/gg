@@ -55,4 +55,4 @@ if (message.content.startsWith(prefix + 'setgame')) {
 });
 
 
-client.login(process.env.BOT_TOKEN);
+client.login("OTE2ODA2MjkwMDMyOTY3NzUy.Yg_x8Q.XfvFpwUVeqsgWLFAxJiIqN12Ic8");
